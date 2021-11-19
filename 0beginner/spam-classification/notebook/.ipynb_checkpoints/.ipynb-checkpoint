@@ -340,7 +340,7 @@
     }
    ],
    "source": [
-    "model_eval_(nn_cv, X_test, y_test, 'Neural Network', 'Test Evaluation')"
+    "model_eval_(nn_cv, X_test, y_test, 'Naive Bayes', 'Test Evaluation')"
    ]
   },
   {
